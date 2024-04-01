@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=144155&text=Camilly%20Santos&stroke=37AEE6"/>
 
+<!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37AEE6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Camilly+Santos;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)][def]
+-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=camillySantos&bg_color=144155&color=ffffff&line=37aee6&point=2d8ebb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
